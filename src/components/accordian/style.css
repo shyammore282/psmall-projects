@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.content-box {
+  padding: 5px;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 20px;
+  background-color: gray;
+  padding: 5px 20px;
+}
+.answer {
+  background-color: gainsboro;
+  padding: 5px 20px;
+  margin: 10px 20px;
+}

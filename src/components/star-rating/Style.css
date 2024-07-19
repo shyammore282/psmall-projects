@@ -1,0 +1,18 @@
+.bg {
+  margin-top: 20px;
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  gap: 10px;
+}
+.img {
+  width: 230px;
+}
+.active {
+  color: yellow;
+  padding: 5px;
+}
+.inactive {
+  color: black;
+  padding: 5px;
+}
