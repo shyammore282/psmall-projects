@@ -1,5 +1,7 @@
 # React + Vite
 
+it is react project which have accordin,color-generator,custom-model,light-dark-mode,star-rating small projects
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
